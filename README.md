@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Anddroid Studio, Java and DSA**
 
-- 👯 I’m looking to collaborate on **PLANTX**
+- 👯 I’m looking to collaborate on **LEAFIFY**
 
 - 👨‍💻 All of my projects are available at [github.com/sayak22](github.com/sayak22)
 
