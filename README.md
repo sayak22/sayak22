@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayak Mondal</h1>
-<h3 align="center">I am a problem solver, an avid learner with a knack for technology. I am a front end web developer and an android developer as well.</h3>
+<h3 align="center">I am a problem solver and an avid learner with a knack for technology. I am a front-end web developer and an Android developer as well.</h3>
 
 - 🔭 I’m currently working at **MyFab11 as an SDE intern**
 
-- 🌱 I’m currently learning **Anddroid Studio, Java and DSA**
+- 🌱 I’m currently learning **Android Studio, Java and DSA**
 
-- 👯 I’m looking to collaborate on **Library Management System for IIIT Una**
+- 👯 I’m looking to collaborate on **Student entry and exit system for IIIT Una**
 
 - 👨‍💻 All of my projects are available at [github.com/sayak22](github.com/sayak22)
 
-- 💬 Ask me about **C++, DSA,native android developement in Java**
+- 💬 Ask me about **C++, DSA, native android development in Kotlin as well as Java**
 
 - 📫 How to reach me **sayakmondal2001@gmail.com**
 
