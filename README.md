@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayak Mondal</h1>
 <h3 align="center">I am a Full-stack web Developer (MERN stack), as well as an Android Developer (Kotlin & Java). Additionally, I am a problem solver with a strong grip on DSA.</h3>
 
-- 🔭 I’m have working at **MyFab11 as an SDE intern**
+- 🔭 I’m have worked at **MyFab11 as an SDE intern**
 
 - 🌱 I’m currently learning **Kotlin, NodeJS and Dynamic Programming**
 
