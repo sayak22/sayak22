@@ -15,6 +15,27 @@
 
 - 📄 Know about my experiences [bit.ly/sayakresume](bit.ly/sayakresume)
 
+
+<h3 align="left">Let's connect:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayak22"_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      alt="Linkedin"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.twitter/ig_d3mnonic" target="_blank" rel="noreferrer">
+    <img      
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  
+      alt="twitter"
+      width="40"
+      height="40"
+    />
+  </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
