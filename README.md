@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sayak Mondal</h1>
 <h3 align="center">I am a problem solver and an avid learner with a knack for technology. I am a front-end web developer and an Android developer as well.</h3>
 
-- 🔭 I’m currently working at **MyFab11 as an SDE intern**
+- 🔭 I’m have working at **MyFab11 as an SDE intern**
 
-- 🌱 I’m currently learning **Android Studio, Java and DSA**
+- 🌱 I’m currently learning **Kotlin, NodeJS and Dynamic Programming**
 
-- 👯 I’m looking to collaborate on **Student entry and exit system for IIIT Una**
+- 👯 I’m looking to collaborate on **ExitPro - Student logging system for IIIT Una**
 
 - 👨‍💻 All of my projects are available at [github.com/sayak22](github.com/sayak22)
 
-- 💬 Ask me about **C++, DSA, native android development in Kotlin as well as Java**
+- 💬 Ask me about **C++, DSA, Android Development (Kotlin & Java), Back-end Development (Node.js, Express.js, MongoDB)**
 
 - 📫 How to reach me **sayakmondal2001@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/sayakmondal](bit.ly/sayakmondal)
+- 📄 Know about my experiences [bit.ly/sayakresume](bit.ly/sayakresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ig_d3monic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ig_d3monic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayak-mondal-b70384200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayak-mondal-b70384200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayak22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayak-mondal-b70384200" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_d3monic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_d3monic" height="30" width="40" /></a>
 </p>
 
