@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sayakmondal2001@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/sayakresume](bit.ly/sayakresume)
+- 📄 Know about my experiences [bit.ly/sayakresume]
 
 
 <h3 align="left">Let's connect:</h3>
