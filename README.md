@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayak Mondal</h1>
 <h3 align="center">
-  Android Developer (Kotlin & Java) • Backend Developer • DSA Problem Solver  
+  SDE at TATA 1mg • Android Developer (Kotlin & Java) • Backend Developer • DSA Problem Solver  
 </h3>
 <p align="center">
   I build seamless mobile apps, scalable backend systems, and love tackling complex algorithms.
