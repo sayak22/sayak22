@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sayak Mondal</h1>
-<h3 align="center">I am a Full-stack web Developer (MERN stack), as well as an Android Developer (Kotlin & Java). Additionally, I am a problem solver with a strong grip on DSA.</h3>
+<h3 align="center">
+  Android Developer (Kotlin & Java) • Backend Developer • DSA Problem Solver  
+</h3>
+<p align="center">
+  I build seamless mobile apps, scalable backend systems, and love tackling complex algorithms.
+</p>
 
-- 🔭 I’m have worked at **MyFab11 as an SDE intern**
+- 🔭 I’ve have worked at **BluSmart and MyFab11 as an SDE**
 
-- 🌱 I’m currently learning **Kotlin, NodeJS and Dynamic Programming**
+- 🌱 I’m currently into **KMP, Jetpack compose and Dynamic Programming**
 
 - 👯 I’m looking to collaborate on **ExitPro - Student logging system for IIIT Una**
 
