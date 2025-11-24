@@ -12,14 +12,13 @@
 
 - 👯 I’m looking to collaborate on **ExitPro - Student logging system for IIIT Una**
 
-- 👨‍💻 All of my projects are available at [github.com/sayak22](github.com/sayak22)
-
+- 👨‍💻 All of my projects are available at [github.com/sayak22](https://github.com/sayak22)
+  
 - 💬 Ask me about **C++, DSA, Android Development (Kotlin & Java), Back-end Development (Node.js, Express.js, MongoDB)**
 
 - 📫 How to reach me **sayakmondal2001@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/sayakresume]
-
+- 👨‍💻 All of my projects are available at [github.com/sayak22](https://github.com/sayak22)
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
