@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **sayakmondal2001@gmail.com**
 
-- 👨‍💻 All of my projects are available at [github.com/sayak22](https://github.com/sayak22)
-
+- 📄 Know about my experiences at [bit.ly/sayakresume](https://bit.ly/sayakresume)
+  
 <h3 align="left">Let's connect:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sayak22"_blank" rel="noreferrer">
